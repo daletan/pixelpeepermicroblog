@@ -1,0 +1,51 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "dale",
+	"icon": "https://micro.blog/dale/avatar.jpg",
+	"home_page_url": "https://pixelpeeper.micro.blog/",
+	"feed_url": "https://pixelpeeper.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://pixelpeeper.micro.blog/2025/04/17/quiet-corner-sea-ranch-searanch.html",
+				
+				"content_html": "<p>Quiet Corner, Sea Ranch\n#searanch</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Quiet Corner, Sea Ranch \n#searanch\n\n<img src=\"uploads/2025/76553e8f07.jpg\" width=\"480\" height=\"600\" alt=\"Fireplace corner with window view of plains off to the left\"><img src=\"uploads/2025/2caf3e99e2.jpg\" width=\"400\" height=\"600\" alt=\"2 deck chairs viewed through window\"><img src=\"uploads/2025/879c3f8392.jpg\" width=\"400\" height=\"600\" alt=\"View of open plain leading to Pacific Ocean through living room windows\">\n",
+				"date_published": "2025-04-17T23:07:01-07:00",
+				"url": "https://pixelpeeper.micro.blog/2025/04/17/quiet-corner-sea-ranch-searanch.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://pixelpeeper.micro.blog/2025/04/06/just-found-out-that-maximumpc.html",
+				
+				"content_html": "<p>Just found out that MaximumPC, a magazine I’ve followed since the 2000’s, has finally closed. They wrote good articles, didn’t have trashy advertisers and always added a hint of humor. It was as much of my computing journey as my college degree was. I’m going to miss it very much.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just found out that MaximumPC, a magazine I’ve followed since the 2000’s, has finally closed. They wrote good articles, didn’t have trashy advertisers and always added a hint of humor. It was as much of my computing journey as my college degree was. I’m going to miss it very much.\n\n\n<img src=\"uploads/2025/c97c552094.png\" width=\"413\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-06T14:42:03-07:00",
+				"url": "https://pixelpeeper.micro.blog/2025/04/06/just-found-out-that-maximumpc.html"
+			},
+			{
+				"id": "http://pixelpeeper.micro.blog/2025/04/05/i-dont-know-what-im.html",
+				
+				"content_html": "<p>I don’t know what I’m going to do with this, but I’m glad I got it in before the tariffs were announced.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I don’t know what I’m going to do with this, but I’m glad I got it in before the tariffs were announced.\n\n<img src=\"uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-05T18:11:50-07:00",
+				"url": "https://pixelpeeper.micro.blog/2025/04/05/i-dont-know-what-im.html"
+			},
+			{
+				"id": "http://pixelpeeper.micro.blog/2025/04/05/i-was-about-to-go.html",
+				
+				"content_html": "<p>I was about to go down the rabbit hole of setting up yet another blog. But thankfully, I somehow ended up finding micro.blog, so here I am.</p>\n<p>Ideally, I just want to post my musings, in the form of short bits of text and my photos, and have that cross-posted out to the rest of the Fediverse.</p>\n",
+				"content_text": "I was about to go down the rabbit hole of setting up yet another blog. But thankfully, I somehow ended up finding micro.blog, so here I am.\n\nIdeally, I just want to post my musings, in the form of short bits of text and my photos, and have that cross-posted out to the rest of the Fediverse.\n",
+				"date_published": "2025-04-05T15:50:46-07:00",
+				"url": "https://pixelpeeper.micro.blog/2025/04/05/i-was-about-to-go.html"
+			},
+			{
+				"id": "http://pixelpeeper.micro.blog/2025/04/05/hello-world.html",
+				
+				"content_html": "<p>Hello World</p>\n",
+				"content_text": "Hello World\n",
+				"date_published": "2025-04-05T15:33:50-07:00",
+				"url": "https://pixelpeeper.micro.blog/2025/04/05/hello-world.html"
+			}
+	]
+}

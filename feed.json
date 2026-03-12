@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://pixelpeeper.micro.blog/2026/03/11/got-my-hands-on-the.html",
+				
+				"content_html": "<p>Got my hands on the GOAT of laptop keyboards, IMHO. Beautifully resto-modded with new screen, new WiFi and SSD. Unfortunate that the donor laptop had chips on the case.</p>\n<p>Now I just need to install Linux.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Got my hands on the GOAT of laptop keyboards, IMHO. Beautifully resto-modded with new screen, new WiFi and SSD. Unfortunate that the donor laptop had chips on the case.\n\nNow I just need to install Linux.\n\n<img src=\"uploads/2026/042ff79345.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2026/10dca4872a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-11T18:00:42-07:00",
+				"url": "https://pixelpeeper.micro.blog/2026/03/11/got-my-hands-on-the.html"
+			},
+			{
 				"id": "http://pixelpeeper.micro.blog/2026/03/08/new-old-toy-completed-the.html",
 				
 				"content_html": "<p>New old toy. Completed the vibes with late 90’s tunes.</p>\n<p>I forgot how small these things were!</p>\n<!-- raw HTML omitted -->\n",
@@ -45,7 +53,7 @@
 				"id": "http://pixelpeeper.micro.blog/2026/01/10/a-place-to-contemplate.html",
 				
 				"content_html": "<p>A place to contemplate</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A place to contemplate \n\n<img src=\"uploads/2026/c7983f08dd.jpg\" width=\"450\" height=\"600\" alt=\"A bench along a dirt path, next to a tall, barren, black tree, surrounded by an ivy-covered forest floor, on a winter’s day\">\n",
+				"content_text": "A place to contemplate \n\n<img src=\"https://pixelpeeper.micro.blog/uploads/2026/c7983f08dd.jpg\" width=\"450\" height=\"600\" alt=\"A bench along a dirt path, next to a tall, barren, black tree, surrounded by an ivy-covered forest floor, on a winter’s day\">\n",
 				"date_published": "2026-01-10T22:24:07-07:00",
 				"url": "https://pixelpeeper.micro.blog/2026/01/10/a-place-to-contemplate.html",
 				"tags": ["Photos"]
